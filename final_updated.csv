@@ -1,0 +1,1001 @@
+index,prediction,entity_value
+0,,500.0 gram
+1,,1.0 cup
+2,0.709 gram,0.709 gram
+3,,0.709 gram
+4,,1400 milligram
+5,,1400 milligram
+6,,1400 milligram
+7,,1400 milligram
+8,,1400 milligram
+9,,1400 milligram
+10,30 kilogram,30.0 kilogram
+11,10 kilogram,10 kilogram to 15 kilogram
+12,,3.53 ounce
+13,,3.53 ounce
+14,100 gram,53 ounce
+15,,100 gram
+16,,200 gram
+17,,1 kilogram
+18,,200 gram
+19,,200 gram
+20,,200 gram
+21,,4.0 gallon
+22,2.7 gram,2.7 gram
+23,,112 gram
+24,44 kilogram,4.1 kilogram
+25,,48.0 volt
+26,158 gram,158.0 gram
+27,,158.0 gram
+28,,5000 milligram
+29,18.55 gram,18.55 gram
+30,18.55 gram,18.55 gram
+31,18.55 gram,18.55 gram
+32,18.55 gram,18.55 gram
+33,18.55 gram,18.55 gram
+34,,50.0 gram
+35,26 gram,26.0 gram
+36,800 watt,800.0 watt
+37,36 volt,36.0 volt
+38,330 pound,330.0 pound
+39,,31.0 ounce
+40,40 gram,0.35 ounce
+41,,35.0 gram
+42,,150.0 watt
+43,,150.0 watt
+44,30 watt,30.0 watt
+45,,30.0 watt
+46,,15.5 gram
+47,,200.0 gram
+48,250 watt,250.0 watt
+49,,10.0 ounce
+50,0.8 kilogram,0.8 kilogram
+51,169 gram,169.0 gram
+52,10 gram,10.0 gram
+53,,7.0 gram
+54,750 gram,750.0 gram
+55,160 gram,160.0 gram
+56,,270.0 gram
+57,,500 gram
+58,,1 kilogram
+59,,10 kilogram
+60,,1 kilogram
+61,50 gram,2.2 pound
+62,,60.0 watt
+63,,30.0 millilitre
+64,,30.0 millilitre
+65,,30.0 millilitre
+66,,30.0 millilitre
+67,,30.0 millilitre
+68,,2 ounce
+69,8.1 gram,8.1 gram
+70,,2 kilogram
+71,,10 kilogram
+72,,500.0 kilogram
+73,,200.0 gram
+74,,200.0 gram
+75,,200.0 gram
+76,,200.0 gram
+77,100 gram,100.0 gram
+78,,200.0 gram
+79,,5.0 kilogram
+80,,60.0 pound
+81,,3.0 cubic foot
+82,,227 gram
+83,,100 gram
+84,,190.0 gram
+85,,100.0 gram
+86,,600 milligram
+87,3.2 gram,3.2 gram
+88,6.5 gram,6.5 gram
+89,,160.0 gram
+90,42 gram,42.0 gram
+91,26 gram,26.0 gram
+92,0.55 watt,0.55 watt
+93,,50.0 milligram
+94,,10.0 kilogram
+95,,49.0 watt
+96,,500 milligram
+97,,500 milligram
+98,16 gram,16.0 gram
+99,,8 kilogram
+100,,500.0 millilitre
+101,,3.0 pound
+102,,750.0 milligram
+103,,8.0 gram
+104,23 gram,23.0 gram
+105,9.8 gram,9.8 gram
+106,198 pound,198.0 pound
+107,,9.0 kilogram
+108,,2.5 kilogram
+109,,50.0 gram
+110,,10.0 millilitre
+111,,200.0 millilitre
+112,4.1 gram,4.1 gram
+113,9.2 gram,9.2 gram
+114,,600.0 gram
+115,20 kilogram,20.0 kilogram
+116,,13.0 gram
+117,,13.0 gram
+118,,1000.0 milligram
+119,264 gram,264.0 gram
+120,86 gram,34 kilogram
+121,72.57 gram,72.57 gram
+122,100 gram,100 gram
+123,,180 gram
+124,,180 gram
+125,,180 gram
+126,,180 gram
+127,,180 gram
+128,33 gram,33 gram
+129,12. 8 gram,8.0 gram
+130,,1.77 ounce
+131,350 gram,350.0 gram
+132,,567.0 gram
+133,,567.0 gram
+134,,567.0 gram
+135,,567.0 gram
+136,,567.0 gram
+137,,567.0 gram
+138,,60.0 watt
+139,240 volt,"[100.0, 240.0] volt"
+140,,25.0 millilitre
+141,,2.4 kilogram
+142,,25 kilogram
+143,50 kilogram,50.0 kilogram
+144,9.3 ounce,263.0 gram
+145,,250.0 gram
+146,250 gram,250.0 gram
+147,200 gram,200 gram
+148,,1.8 kilogram
+149,,800.0 gram
+150,,24.8 gram
+151,,4.0 kilogram
+152,,"[8.0, 12.0] fluid ounce"
+153,3.59 kilogram,3.59 kilogram
+154,,12.0 volt
+155,7 gram,7 gram
+156,9.8 gram,9.8 gram
+157,,16.0 fluid ounce
+158,3.8 gram,3.8 gram
+159,,0.45 kilogram
+160,70.5 pound,70.5 pound
+161,,12.0 volt
+162,,12.0 volt
+163,,12.0 volt
+164,,12.0 volt
+165,,1.87 pound
+166,,125.0 gram
+167,,21.0 gram
+168,,30.0 gram
+169,,"[85.0, 265.0] volt"
+170,,4.0 fluid ounce
+171,,4.0 fluid ounce
+172,,4.0 fluid ounce
+173,,0.7 millilitre
+174,,679.0 milligram
+175,4 floz,4.0 fluid ounce
+176,,500.0 gram
+177,15 kilogram,15.0 kilogram
+178,,8.0 watt
+179,175 kilogram,175.0 kilogram
+180,175 kilogram,175.0 kilogram
+181,,1.0 gram
+182,,100.0 watt
+183,,100.0 watt
+184,,100.0 watt
+185,,100.0 watt
+186,,460.0 gram
+187,,3.0 watt
+188,,23.0 kilogram
+189,,3.0 millilitre
+190,100 gram,300.0 gram
+191,100 gm,100.0 gram
+192,,22.0 gram
+193,,3.0 gram
+194,,3.0 gram
+195,3 gram,3.0 gram
+196,,2.0 ton
+197,,15 kilogram
+198,,14.8 gram
+199,,4.4 pound
+200,,4.4 pound
+201,20.55 gram,350 pound
+202,4.5 gram,4.5 gram
+203,4.5 gram,4.5 gram
+204,,1977.0 decilitre
+205,,120.0 gram
+206,200 millilitre,100.0 millilitre
+207,,100.0 millilitre
+208,100 millilitre,100.0 millilitre
+209,40 gram,40.0 gram
+210,,0.0 gram
+211,40 gram,40.0 gram
+212,,60.0 gram
+213,,60.0 gram
+214,,390 gram
+215,,"[25.0, 30.0] pound"
+216,120.00 kilogram,120 kilogram
+217,5 gram,5.0 gram
+218,,5.0 gram
+219,,2.55 cubic inch
+220,100 gram,100 gram
+221,100 gram,100.0 gram
+222,,100.0 gram
+223,2.6 gram,2.6 gram
+224,,7.9 kilogram
+225,135 kilogram,150.0 kilogram
+226,0.9 kilogram,0.9 kilogram
+227,,7.0 volt
+228,265 volt,"[175.0, 265.0] volt"
+229,,2.82 ounce
+230,0 gram,16.0 gram
+231,132 gram,132.0 gram
+232,,77.0 gram
+233,,77.0 gram
+234,1.65 gram,100.0 gram
+235,,100.0 gram
+236,,25 gram
+237,,25 gram
+238,,25 gram
+239,,150 gram
+240,,150 gram
+241,,150 gram
+242,150 gm,150 gram
+243,,150 gram
+244,,150 gram
+245,,200 gram
+246,,2460.0 gram
+247,,7 kilogram
+248,,6.0 ton
+249,2.5 kilogram,2.5 kilogram
+250,60 watt,60.0 watt
+251,,21.6 watt
+252,,240.0 volt
+253,,1300.0 gram
+254,,120.0 volt
+255,22 gram,22.0 gram
+256,,22.0 gram
+257,,22.0 gram
+258,,2022.0 gram
+259,,220.0 gram
+260,,220.0 gram
+261,,240.0 gram
+262,47 gram,47.0 gram
+263,,11 pound
+264,1 gm,5 kilogram
+265,,6.6 pound
+266,1 gram,3 kilogram
+267,,6.6 pound
+268,334 gram,5 kilogram
+269,50 gram,3 kilogram
+270,,9 gram
+271,,18.0 ounce
+272,,0.13 pound
+273,0.41 kilogram,0.41 kilogram
+274,,2.0 pound
+275,,2.0 pound
+276,,38.0 gram
+277,1.76 ounce,50.0 gram
+278,,50.0 gram
+279,,500.0 milligram
+280,,50.0 gram
+281,,76.0 ounce
+282,150 gram,150.0 gram
+283,13 gram,13.0 gram
+284,150 gram,150.0 gram
+285,2. 1 pound,2.1 pound
+286,,0.0 pound
+287,40 gram,40.0 gram
+288,30 gram,30.0 gram
+289,1.43 pound,1.43 pound
+290,,200.0 kilogram
+291,260 gram,260.0 gram
+292,20 watt,20.0 watt
+293,,4.0 gram
+294,,23.0 kilogram
+295,,0.0 ounce
+296,,12.0 ounce
+297,34.5 gram,34.5 gram
+298,,60.0 gram
+299,,4.0 pound
+300,32 gram,32.0 gram
+301,,32.0 gram
+302,,13.5 ounce
+303,,7.0 ounce
+304,15.9 gram,15.9 gram
+305,35.3 gram,35.3 gram
+306,,10 kilogram
+307,,10 kilogram
+308,200.0 gram,200 gram
+309,,100 gram
+310,315 gram,315.0 gram
+311,22 gram,22.0 gram
+312,,18.0 volt
+313,,4.0 gram
+314,,8.0 ounce
+315,,240.0 volt
+316,,12.0 volt
+317,,12.0 volt
+318,,1.69 fluid ounce
+319,64 fl oz,64.0 fluid ounce
+320,,8.0 fluid ounce
+321,8 fl oz,8.0 fluid ounce
+322,,13.0 ton
+323,,"[220.0, 240.0] volt"
+324,,1000.0 watt
+325,800 watt,800.0 watt
+326,,4.4 gram
+327,4 gram,750 gram
+328,4 gram,750 gram
+329,12.3 gram,123.0 gram
+330,12.3 gram,123.0 gram
+331,,123.0 gram
+332,123 gram,123.0 gram
+333,123 gram,123.0 gram
+334,,8.0 ounce
+335,12.3 gram,123.0 gram
+336,,200 gram
+337,56 gram,56 gram
+338,,320.0 gram
+339,,320.0 gram
+340,,0.88 pound
+341,,8.0 gram
+342,36 volt,36.0 volt
+343,,1440 milligram
+344,1.60 gram,1.6 gram
+345,,1.2 gram
+346,114 gram,14.0 gram
+347,,590.0 gram
+348,100 kilogram,100.0 kilogram
+349,,50.0 ton
+350,276.0 gram,276.0 gram
+351,,400.0 milligram
+352,90 gram,90.0 gram
+353,24 watt,24.0 watt
+354,,8.0 fluid ounce
+355,,165.0 pound
+356,,2007.0 gallon
+357,,2006.0 gallon
+358,,2007.0 gallon
+359,2.5 gram,2.5 gram
+360,,100.0 gram
+361,,3.52 ounce
+362,100 gram,100 gram
+363,,3.52 ounce
+364,,100 gram
+365,10.5 kilogram,10.5 kilogram
+366,,300 kilogram
+367,,70 gram
+368,,70 gram
+369,,70 gram
+370,,3.52 ounce
+371,,100 gram
+372,,200 gram
+373,,200 gram
+374,,0 gram
+375,,0 gram
+376,60 gram,60 gram
+377,,11.7 gram
+378,11.7 gram,11.7 gram
+379,,120.0 gram
+380,,0.51 kilogram
+381,,72.0 watt
+382,,200.0 millilitre
+383,,7.5 gram
+384,,120.0 kilogram
+385,,4.0 kilogram
+386,,4.0 kilogram
+387,,2.0 gram
+388,54 watt,54.0 watt
+389,,400.0 gram
+390,100 gram,100.0 gram
+391,,12.0 volt
+392,19 volt,12.0 volt
+393,19.3 ounce,271.0 gram
+394,,20.0 gram
+395,,271.0 gram
+396,,35.0 gram
+397,70 kilogram,154 pound
+398,,2601 pound
+399,14.5 gram,14.5 gram
+400,,565.0 gram
+401,240 gram,240.0 gram
+402,,300.0 milligram
+403,,300.0 milligram
+404,,3.5 ounce
+405,,440.0 pound
+406,32 gram,32.0 gram
+407,32 gram,32.0 gram
+408,,454.0 gram
+409,1 pound,1.0 ounce
+410,,454.0 gram
+411,,6.0 ton
+412,,96.0 gram
+413,900 gram,900.0 gram
+414,66 watt,66.0 watt
+415,,24.0 gram
+416,,2.0 kilogram
+417,,500.0 gram
+418,423 gram,423.0 gram
+419,,70.0 kilogram
+420,,143.0 gram
+421,12.7 gram,0.45 ounce
+422,,44115.0 ton
+423,,1.0 litre
+424,36 volt,36.0 volt
+425,,36.0 volt
+426,,250.0 watt
+427,100 gram,100.0 gram
+428,,100.0 gram
+429,20 watt,20.0 watt
+430,10.7 gram,10.7 gram
+431,,10.0 ounce
+432,130 gram,130.0 gram
+433,,1.8 ounce
+434,50 gram,1.8 ounce
+435,,15 gram
+436,,600 milligram
+437,1.23 ounce,15 pound
+438,5.3 gram,5.3 gram
+439,,250 gram
+440,,12.3 kilogram
+441,,50 gram
+442,,18.0 gram
+443,4 ton,14.5 kilogram
+444,,63 gram
+445,8.7 gram,8.7 gram
+446,,24.0 volt
+447,100 gram,100 gram
+448,4.8 gram,4.8 gram
+449,,450.0 kilogram
+450,,360.0 milligram
+451,,2.98 pound
+452,,230.0 volt
+453,,30.0 watt
+454,,30.0 watt
+455,,36.0 gram
+456,300 gram,36.0 gram
+457,3.28 ounce,93.0 gram
+458,5.8 gram,5.8 gram
+459,,2325.0 microgram
+460,,250.0 watt
+461,,3.0 pound
+462,15.17 ounce,15.17 ounce
+463,,328.0 gram
+464,,5.0 volt
+465,,5.0 volt
+466,,280.0 gram
+467,80 kilogram,80.0 kilogram
+468,200 millilitre,200.0 millilitre
+469,8.82 ounce,250 pound
+470,4 ounce,2.0 pound
+471,,20.0 gram
+472,,30.0 kilogram
+473,30 kilogram,30.0 kilogram
+474,210 watt,210.0 watt
+475,15 watt,15.0 watt
+476,,3.0 gram
+477,39 gram,39.0 gram
+478,,1.16 kilogram
+479,4.8 kilogram,4.8 kilogram
+480,380 gram,380.0 gram
+481,0.28 ounce,0.28 ounce
+482,100 gram,100 gram
+483,100 gram,100 gram
+484,100 gram,100 gram
+485,,150 gram
+486,150.0 gram,150 gram
+487,,10 kilogram
+488,,10 kilogram
+489,,200 gram
+490,,100 gram
+491,,100 gram
+492,16.26 gram,16.26 gram
+493,16.26 gram,16.26 gram
+494,316 gm,316 gram
+495,2.9 kilogram,2.9 kilogram
+496,10.3 gram,10.3 gram
+497,4 gram,8.0 kilogram
+498,,1.0 gram
+499,,"[11.0, 12.0] ounce"
+500,,10.0 gram
+501,19.2 gram,19.2 gram
+502,,2.4 gram
+503,,8.0 kilogram
+504,,4.0 ounce
+505,,12.0 pound
+506,,5.0 gram
+507,,"[70.0, 100.0] millilitre"
+508,36 volt,36.0 volt
+509,,150.0 kilogram
+510,,10.0 ounce
+511,,0.0 gram
+512,,340.0 gram
+513,,60.0 gram
+514,,266.0 gram
+515,,60.0 gram
+516,18 gram,16.0 gram
+517,,14.2 gram
+518,180 gram,180.0 gram
+519,500 gram,1.1 pound
+520,,25.0 volt
+521,,20.0 watt
+522,,2.0 kilogram
+523,,152 gram
+524,24 gm,152 gram
+525,,152 gram
+526,,152 gram
+527,,235 gram
+528,,1.76 ounce
+529,,25 kilogram
+530,,4.5 kilogram
+531,,80 gram
+532,,30 pound
+533,,5 millilitre
+534,,5 millilitre
+535,,15.0 kilogram
+536,95 centimetre,95.0 centimetre
+537,,10000 milligram
+538,,10000 milligram
+539,,10000 milligram
+540,,10000 milligram
+541,,2.4 gram
+542,235 gram,235.0 gram
+543,6.1 gram,6.1 gram
+544,,699.0 litre
+545,2 gram,2.0 gram
+546,,3.7 gram
+547,1 kilogram,1 kilogram
+548,,104 gram
+549,,623 gram
+550,,623 gram
+551,,350 gram
+552,10 watt,10.0 watt
+553,0.65 kilogram,0.65 kilogram
+554,,10.3 kilogram
+555,,9361.0 ton
+556,2.4 gram,2.4 gram
+557,2.1 gram,2.1 gram
+558,,209.0 gram
+559,0.69 kilogram,0.69 kilogram
+560,,200.0 gram
+561,4 gram,360.0 gram
+562,,360.0 gram
+563,4 gram,360.0 gram
+564,4 gram,360.0 gram
+565,13 gram,5.0 gram
+566,4 gram,13.0 gram
+567,8 gram,8.0 gram
+568,,1800.0 watt
+569,,180.0 milligram
+570,,1800.0 milligram
+571,,1800.0 milligram
+572,,1800.0 milligram
+573,,1800.0 milligram
+574,,1800.0 milligram
+575,,0.43 ounce
+576,,1.0 gram
+577,,1.0 gram
+578,,661.0 pound
+579,,100.0 millilitre
+580,,1.0 kilogram
+581,30 millilitre,30.0 millilitre
+582,,10.0 kilogram
+583,,227.0 gram
+584,,2.0 ton
+585,23 gram,23.0 gram
+586,,55.0 pound
+587,25 kilogram,55.0 pound
+588,23 gram,23.0 gram
+589,10 gram,0.35 ounce
+590,1.05 kilogram,1.05 kilogram
+591,,2.25 pound
+592,,180.0 gram
+593,,180.0 gram
+594,,8.0 watt
+595,,90.0 microgram
+596,,90.0 microgram
+597,,90.0 microgram
+598,,16.0 kilogram
+599,,10 gram
+600,15 gram,15 gram
+601,,20 kilogram
+602,360.00 kilogram,100 kilogram
+603,,50 gram
+604,,59 gram
+605,,250 gram
+606,,250 gram
+607,,250 gram
+608,,250 gram
+609,250 gram,250 gram
+610,15 kilogram,15.0 kilogram
+611,,500.0 milligram
+612,,700.0 milligram
+613,,700.0 milligram
+614,2.6 gram,2.6 gram
+615,,15.0 milligram
+616,,15.0 milligram
+617,20 gram,20.0 gram
+618,8 gram,8.0 gram
+619,,27.0 ounce
+620,,99.0 gram
+621,,99.0 gram
+622,,99.0 gram
+623,,99.0 gram
+624,396 gram,396.0 gram
+625,,99.0 gram
+626,0 gram,99.0 gram
+627,,99.0 gram
+628,32 gram,32.0 gram
+629,0.55 kilogram,1.2 pound
+630,,128.0 fluid ounce
+631,,128.0 fluid ounce
+632,,10.0 millilitre
+633,10 millilitre,10.0 millilitre
+634,,10.0 millilitre
+635,,10.0 millilitre
+636,4.4 pound,4.4 pound
+637,,2.9 gram
+638,35 pound,35.0 pound
+639,725 gram,725.0 gram
+640,,500.0 watt
+641,,48.0 volt
+642,12 volt,12.0 volt
+643,,200.0 gram
+644,,200.0 gram
+645,106 gram,106.0 gram
+646,1 ounce,3.6 ounce
+647,,71.2 pound
+648,,4.0 gram
+649,,1208.0 gram
+650,,360.0 pound
+651,,250 gram
+652,,1.1 pound
+653,100 gm,100 gram
+654,,100 gram
+655,,100 gram
+656,,100 gram
+657,14 gram,14 gram
+658,150 gram,150 gram
+659,,100 gram
+660,3.3 gram,3.3 gram
+661,,300.0 kilogram
+662,,1500.0 watt
+663,,15.7 kilogram
+664,,800.0 gram
+665,800 gram,800.0 gram
+666,2 kilogram,0.13 kilogram
+667,,40.0 gram
+668,730 gram,730.0 gram
+669,1 ton,12.5 gram
+670,21 centimetre,21.0 centimetre
+671,10 gram,10.0 gram
+672,,"[17.0, 21.0] kilogram"
+673,,"[13.0, 16.0] kilogram"
+674,21 kilogram,"[13.0, 16.0] kilogram"
+675,8 gram,8.0 gram
+676,250 millilitre,250.0 millilitre
+677,250 millilitre,250.0 millilitre
+678,,250.0 millilitre
+679,,250.0 millilitre
+680,,250.0 millilitre
+681,,250.0 millilitre
+682,,250.0 millilitre
+683,,21.1 gram
+684,,776.58 gram
+685,,35.0 kilogram
+686,,200 gram
+687,,1.5 kilogram
+688,240.00 kilogram,240 kilogram
+689,,960 gram
+690,,10 ounce
+691,60 watt,60.0 watt
+692,,50.0 pound
+693,,4.0 quart
+694,,4.0 quart
+695,,4.0 quart
+696,,0.423 ounce
+697,,84200701.0 ounce
+698,,0.14 pound
+699,,3.0 gram
+700,24 gram,24.0 gram
+701,,300.0 gram
+702,,199.0 gram
+703,22 gram,22.0 gram
+704,,2.4 watt
+705,25 gram,25.0 gram
+706,0.200 kilogram,200.0 kilogram
+707,,4.0 ton
+708,,110.0 volt
+709,,60.0 watt
+710,9.2 pound,9.2 pound
+711,5.78 ounce,5.78 ounce
+712,,250.0 volt
+713,585 gram,585.0 gram
+714,9 gram,9.0 gram
+715,,35.0 gram
+716,200 gram,200.0 gram
+717,200 gram,200.0 gram
+718,200 gram,200.0 gram
+719,,2000.0 milligram
+720,2 gram,2000.0 milligram
+721,,230.0 volt
+722,230 volt,"[11.0, 17.0] volt"
+723,18 volt,18.0 volt
+724,,1000 milligram
+725,,280.0 gram
+726,3.6 gram,3.6 gram
+727,9.82 gram,9.82 gram
+728,,1.25 kilogram
+729,35 kilogram,35.0 kilogram
+730,,2.0 ounce
+731,265 gram,265.0 gram
+732,,3.17 ounce
+733,,750.0 gram
+734,,16.0 kilogram
+735,,2023.0 ounce
+736,,179.0 kilogram
+737,400 watt,250.0 watt
+738,,280.0 gram
+739,4 gram,2.82 ounce
+740,,2.82 ounce
+741,,1000.0 gram
+742,24.5 kilogram,24.5 kilogram
+743,6.9 gram,6.9 gram
+744,9.98 kilogram,270 pound
+745,,200 millilitre
+746,,285 pound
+747,,200 gram
+748,45 gram,1.59 ounce
+749,3.40 gram,3.4 gram
+750,100 gram,3.2 gram
+751,,3.2 gram
+752,0.41 kilogram,0.41 kilogram
+753,,65.0 ton
+754,95.6 gram,95.6 gram
+755,220 gram,220.0 gram
+756,,2.0 ounce
+757,0.93 kilogram,0.93 kilogram
+758,,21116.0 ton
+759,,382.2 gram
+760,,85.0 ton
+761,,50.0 watt
+762,,50.0 watt
+763,50 watt,50.0 watt
+764,,50.0 watt
+765,,50.0 watt
+766,50 watt,50.0 watt
+767,420 volt,120.0 volt
+768,,88.0 ounce
+769,,25.0 gram
+770,,0.88 ounce
+771,,"[220.0, 250.0] volt"
+772,14 gram,14.0 gram
+773,,4.0 ounce
+774,,8.0 ounce
+775,,4.0 ounce
+776,6.5 gram,6.5 gram
+777,,35.0 gram
+778,600 watt,600.0 watt
+779,,7 ounce
+780,7 ounce,200 gram
+781,,200 gram
+782,,284 gram
+783,,10 ounce
+784,,0.65 kilogram
+785,,0.1 gram
+786,,42.0 watt
+787,9. 1 gram,1.0 gram
+788,174 gram,174.0 gram
+789,950 gram,950.0 gram
+790,,32.0 gram
+791,,725.0 gram
+792,2.7 gram,2.7 gram
+793,,18.0 watt
+794,18.5 gram,18.5 gram
+795,,135.0 ounce
+796,,2.29 ounce
+797,,"[1.0, 2.0] gram"
+798,,3.0 horsepower
+799,55 pound,"[7.0, 25.0] kilogram"
+800,,3.0 ounce
+801,,7.0 pound
+802,100 millilitre,100.0 millilitre
+803,,8600.0 gram
+804,,15.3 gram
+805,2 volt,2.0 volt
+806,,12.0 volt
+807,,12.0 volt
+808,,1.76 fluid ounce
+809,,1.76 fluid ounce
+810,60 millilitre,1.76 fluid ounce
+811,,50.0 fluid ounce
+812,,1.76 fluid ounce
+813,0.14 ounce,0.14 ounce
+814,0.75 watt,0.75 watt
+815,0.75 watt,0.75 watt
+816,60 watt,60.0 watt
+817,,150.0 gram
+818,,10.0 gram
+819,,10.0 gram
+820,,10.0 gram
+821,1 kilogram,1.0 kilogram
+822,,750.0 watt
+823,,5.5 milligram
+824,,22.5 watt
+825,,100 gram
+826,,100 gram
+827,100 gram,100 gram
+828,,23.0 kilogram
+829,,100 gram
+830,,62 gram
+831,14. 2 gram,2 gram
+832,2.7 kilogram,2.7 kilogram
+833,,900 gram
+834,,900 gram
+835,2.1 gram,2.1 gram
+836,,1.69 fluid ounce
+837,,1.69 fluid ounce
+838,,1.69 fluid ounce
+839,,1.69 fluid ounce
+840,,120.0 gram
+841,,750.0 gram
+842,100 gram,100.0 gram
+843,,60.0 gram
+844,,150.0 kilogram
+845,300 gram,300.0 gram
+846,50 gram,50.0 gram
+847,185 gram,185.0 gram
+848,40 gram,40.0 gram
+849,37 gram,37.0 gram
+850,,56.0 gram
+851,8 fl oz,8.0 fluid ounce
+852,,1080.0 horsepower
+853,,226.0 gram
+854,,2.0 gram
+855,,340.0 gram
+856,340 gram,340.0 gram
+857,340 gram,340.0 gram
+858,,340.0 gram
+859,,340.0 gram
+860,,340.0 gram
+861,4 gram,80 gram
+862,60 gram,60 gram
+863,80 gram,80 gram
+864,80 gram,80 gram
+865,,1 kilogram
+866,,50 gram
+867,1.2 kilogram,2.3 kilogram
+868,,347 gram
+869,,347 gram
+870,,552 gram
+871,,552 gram
+872,,552 gram
+873,,4.0 gram
+874,,270.0 gram
+875,,78.0 gram
+876,,200.0 milligram
+877,,1300.0 milligram
+878,,1300.0 milligram
+879,,5.0 kilogram
+880,4 watt,4.0 watt
+881,,24.0 milligram
+882,,24.0 milligram
+883,,24.0 milligram
+884,,24.0 milligram
+885,,24.0 milligram
+886,,30 gram
+887,45 gm,45.0 gram
+888,,10.0 gram
+889,0.22 pound,0.22 pound
+890,,7.0 ounce
+891,,1000.0 microgram
+892,,1000.0 microgram
+893,,1000.0 microgram
+894,,1000.0 microgram
+895,,1000.0 microgram
+896,,100.0 gram
+897,,500.0 gram
+898,1 gram,1.1 pound
+899,135 kilogram,"[135.0, 150.0] kilogram"
+900,,22.0 kilowatt
+901,,330.0 pound
+902,14 gram,14.0 gram
+903,,2.7 gram
+904,11 kilogram,"[5.0, 11.0] kilogram"
+905,,"[5.0, 11.0] kilogram"
+906,,20.7 kilogram
+907,,6.0 gram
+908,,100.0 litre
+909,,1913.0 decilitre
+910,100 millilitre,100.0 millilitre
+911,26 gram,26.0 gram
+912,0.41 kilogram,0.41 kilogram
+913,0.7 kilogram,0.7 kilogram
+914,,500.0 milligram
+915,,87 gram
+916,500 gram,500 gram
+917,,789 gram
+918,,45 gram
+919,,250 gram
+920,250 gram,250 gram
+921,,250 gram
+922,,250 gram
+923,5 pound,3.5 pound
+924,,3.5 pound
+925,,3.5 pound
+926,,200.0 gram
+927,7 gram,7 gram
+928,5.1 pound,5.1 pound
+929,7.2 volt,7.2 volt
+930,6.04 ounce,6.04 ounce
+931,,180.0 gram
+932,15 gram,15.0 gram
+933,33 gram,33.0 gram
+934,150 gram,150.0 gram
+935,,1500.0 milligram
+936,,100.0 milligram
+937,,300.0 milligram
+938,,1500.0 milligram
+939,,75.0 microgram
+940,,75.0 microgram
+941,124 gram,124.0 gram
+942,,30.8 pound
+943,,88.0 gram
+944,,30.0 watt
+945,,100.0 watt
+946,,100.0 watt
+947,500 gram,500.0 gram
+948,48 volt,48.0 volt
+949,,5.0 volt
+950,,1.1 kilogram
+951,335 gram,335.0 gram
+952,300 gram,300.0 gram
+953,,1000.0 kilogram
+954,15 kilogram,15.0 kilogram
+955,6 watt,6.0 watt
+956,30 volt,30.0 volt
+957,90 gram,90.0 gram
+958,,14.0 kilogram
+959,,1000.0 gram
+960,80 gram,80.0 gram
+961,260 gram,260 gram
+962,100 gram,100 gram
+963,,25 kilogram
+964,,10 kilogram to 25 kilogram
+965,,300 gram
+966,,3 gram
+967,,3 gram
+968,,2.25 gram
+969,,200 gram
+970,250 gram,250 gram
+971,,500 gram
+972,20 kilogram,20 kilogram
+973,,100 gram
+974,13 gram,1 gram
+975,,20.0 gram
+976,15.5 gram,15.5 gram
+977,,20.5 centimetre
+978,23 gram,23.0 gram
+979,4.5 gram,4.5 gram
+980,,1080.0 horsepower
+981,,14 kilogram
+982,,14 kilogram
+983,9 gram,9 gram
+984,,320 gram
+985,,5.8 gram
+986,4 gram,5.8 gram
+987,,0.0 pound
+988,,2.0 gram
+989,,750.0 watt
+990,,750.0 watt
+991,,220.0 volt
+992,125 gram,125.0 gram
+993,,1688.0 gram
+994,,10 kilogram
+995,,470 gram
+996,,454 gram
+997,,4.0 ounce
+998,,0.5 volt
+999,8 gram,1023.0 gram
